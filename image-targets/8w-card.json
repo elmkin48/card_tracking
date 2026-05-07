@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 13,
+    "left": 0,
+    "width": 580,
+    "height": 773,
+    "isRotated": false,
+    "originalWidth": 580,
+    "originalHeight": 800
+  },
+  "imagePath": "image-targets/8w-card_luminance.png",
+  "metadata": null,
+  "name": "8w-card",
+  "resources": {
+    "originalImage": "8w-card_original.png",
+    "croppedImage": "8w-card_cropped.png",
+    "thumbnailImage": "8w-card_thumbnail.png",
+    "luminanceImage": "8w-card_luminance.png"
+  },
+  "created": 1777951965810,
+  "updated": 1777951965810
+}
